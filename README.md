@@ -5,3 +5,12 @@ In this paper, we developed graph neural network (GNN) models with enhanced gene
 <img src="Fig2.tif" width="500"/>
 
 Data is available at this shared [google drive link](https://drive.google.com/drive/folders/1h9iCjVIocUf12K_bFqTFFf_YhhbBcEAC?usp=sharing) due to size issue.
+
+
+References:
+
+[1] [Learning Mesh-Based Flow Simulations on Graph Networks](https://medium.com/stanford-cs224w/learning-mesh-based-flow-simulations-on-graph-networks-44983679cf2d)
+
+[2] [Learning Mesh-Based Simulation with Graph Networks](https://arxiv.org/abs/2010.03409)
+
+[3] [Neural Operator: Learning Maps Between Function Spaces](http://tensorlab.cms.caltech.edu/users/anima/pubs/GraphPDE_Journal.pdf)
