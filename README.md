@@ -4,8 +4,6 @@ In this paper, we developed graph neural network (GNN) models with enhanced gene
 
 <img src="Fig2.tif" width="500"/>
 
-Data is available at this shared [google drive link](https://drive.google.com/drive/folders/1h9iCjVIocUf12K_bFqTFFf_YhhbBcEAC?usp=sharing) due to size issue.
-
 
 References:
 
