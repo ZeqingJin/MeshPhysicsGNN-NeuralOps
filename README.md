@@ -4,6 +4,8 @@ In this paper, we developed graph neural network (GNN) models with enhanced gene
 
 <img src="Fig2.tif" width="500"/>
 
+Instructions:
+
 The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training. 
 
 The code in "main" folder runs the conventional GNN model. 
