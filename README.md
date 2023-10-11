@@ -8,7 +8,7 @@ Instructions:
 
 Please download or clone the full repo to either your local desktop or Google colab (recommended).
 
-The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training. 
+The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training. (optional if you just want to run the GNN model) 
 
 The code in "main" folder runs the conventional GNN model. 
 
