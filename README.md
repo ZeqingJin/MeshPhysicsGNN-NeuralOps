@@ -6,13 +6,13 @@ In this paper, we developed graph neural network (GNN) models with enhanced gene
 
 Instructions:
 
-Please download or clone the full repo to either your local desktop or Google colab (recommended).
+1. Please download or clone the full repo to either your local desktop or Google colab (recommended).
 
-The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training. (optional if you just want to run the GNN model) 
+2. (optional if you just want to run the GNN model) The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training.  
 
-The code in "main" folder runs the conventional GNN model. 
+3. The code in "main" folder runs the conventional GNN model. 
 
-The code in "NeuralOps" folder includes the modified GNN model with neural operator (mesh reconstruction) method. 
+4. (optional if you just want to run the basic GNN model) The code in "NeuralOps" folder includes the modified GNN model with neural operator (mesh reconstruction) method. 
 
 References:
 
