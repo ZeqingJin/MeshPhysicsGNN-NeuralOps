@@ -6,7 +6,7 @@ In this paper, we developed graph neural network (GNN) models with enhanced gene
 
 Instructions:
 
-1. Please clone the full repo to either your local desktop or download the whole repo and upload to Google drive "MyDrive" folder running on Google colab (recommended).
+1. Please either clone the full repo to your local desktop or download the whole repo and upload to Google drive "MyDrive" folder, running on Google Colab (recommended).
 
 2. The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training.(You may skip this step if just want to run the GNN model)
 
