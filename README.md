@@ -8,11 +8,11 @@ Instructions:
 
 1. Please download or clone the full repo to either your local desktop or Google colab (recommended).
 
-2. (optional if you just want to run the GNN model) The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training.  
+2. The code in "data_preprocessing" folder converts the csv results from FEM to .pt file for training.(You may skip this step if just want to run the GNN model)
 
 3. The code in "main" folder runs the conventional GNN model. 
 
-4. (optional if you just want to run the basic GNN model) The code in "NeuralOps" folder includes the modified GNN model with neural operator (mesh reconstruction) method. 
+4. The code in "NeuralOps" folder includes the modified GNN model with neural operator (mesh reconstruction) method. 
 
 References:
 
