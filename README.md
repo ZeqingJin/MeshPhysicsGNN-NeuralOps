@@ -16,7 +16,7 @@ Instructions:
 
 References:
 
-[1] [Learning Mesh-Based Flow Simulations on Graph Networks](https://medium.com/stanford-cs224w/learning-mesh-based-flow-simulations-on-graph-networks-44983679cf2d)
+[1] [Learning Mesh-Based Flow Simulations on Graph Networks](https://medium.com/stanford-cs224w/learning-mesh-based-flow-simulations-on-graph-networks-44983679cf2d) (code reference)
 
 [2] [Learning Mesh-Based Simulation with Graph Networks](https://arxiv.org/abs/2010.03409)
 
